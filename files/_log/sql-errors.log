@@ -1,0 +1,395 @@
+2016-02-25 12:14:56 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-25 12:15:01 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-25 12:37:31 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT `IVALUE`, `TVALUE` FROM `config` WHERE `NAME` = \'GUI_VERSION\'
+  Error: Table 'ocs.config' doesn't exist
+  Backtrace :
+  ...ns/ocsinventoryng/inc/ocsdbclient.class.php:467 
+  plugins/ocsinventoryng/inc/ocsclient.class.php:288 PluginOcsinventoryngOcsDbClient->getConfig()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:1539 PluginOcsinventoryngOcsClient->getTextConfig()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:1566 PluginOcsinventoryngOcsServer::checkVersion()
+  plugins/ocsinventoryng/front/ocsng.link.php:79     PluginOcsinventoryngOcsServer::manageDeleted()
+2016-02-25 12:37:31 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT( * ) FROM `deleted_equiv`
+  Error: Table 'ocs.deleted_equiv' doesn't exist
+  Backtrace :
+  ...ns/ocsinventoryng/inc/ocsdbclient.class.php:559 
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:1571 PluginOcsinventoryngOcsDbClient->getDeletedComputers()
+  plugins/ocsinventoryng/front/ocsng.link.php:79     PluginOcsinventoryngOcsServer::manageDeleted()
+2016-02-25 12:43:39 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT `IVALUE`, `TVALUE` FROM `config` WHERE `NAME` = \'GUI_VERSION\'
+  Error: Table 'ocs.config' doesn't exist
+  Backtrace :
+  ...ns/ocsinventoryng/inc/ocsdbclient.class.php:467 
+  plugins/ocsinventoryng/inc/ocsclient.class.php:288 PluginOcsinventoryngOcsDbClient->getConfig()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:1539 PluginOcsinventoryngOcsClient->getTextConfig()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:108 PluginOcsinventoryngOcsServer::checkVersion()
+  inc/commonglpi.class.php:208                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:154 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:158                       PluginOcsinventoryngOcsServer->defineTabs()
+  inc/commonglpi.class.php:689                       CommonGLPI->defineAllTabs()
+  inc/commonglpi.class.php:1124                      CommonGLPI->showTabsContent()
+  plugins/ocsinventoryng/front/ocsserver.form.php:64 CommonGLPI->display()
+2016-02-25 12:43:39 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT `IVALUE`, `TVALUE` FROM `config` WHERE `NAME` = \'TRACE_DELETED\'
+  Error: Table 'ocs.config' doesn't exist
+  Backtrace :
+  ...ns/ocsinventoryng/inc/ocsdbclient.class.php:467 
+  plugins/ocsinventoryng/inc/ocsclient.class.php:276 PluginOcsinventoryngOcsDbClient->getConfig()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:1558 PluginOcsinventoryngOcsClient->getIntConfig()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:109 PluginOcsinventoryngOcsServer::checkTraceDeleted()
+  inc/commonglpi.class.php:208                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:154 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:158                       PluginOcsinventoryngOcsServer->defineTabs()
+  inc/commonglpi.class.php:689                       CommonGLPI->defineAllTabs()
+  inc/commonglpi.class.php:1124                      CommonGLPI->showTabsContent()
+  plugins/ocsinventoryng/front/ocsserver.form.php:64 CommonGLPI->display()
+2016-02-29 11:26:09 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-29 11:28:10 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-29 11:30:24 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-29 11:32:53 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-29 11:35:21 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-29 11:37:50 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-02-29 11:40:11 [2@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins/dashboard/front/main.php:270               
+2016-06-03 14:39:05 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT count(id) AS id
+FROM glpi_cartridges 
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)' at line 3
+  Backtrace :
+  plugins/dashboard/front/assets/assets.php:100      
+  plugins/dashboard/front/assets/assets.php:255      conta1()
+2016-06-03 14:39:05 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT count(id) AS id
+FROM glpi_consumables 
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)' at line 3
+  Backtrace :
+  plugins/dashboard/front/assets/assets.php:100      
+  plugins/dashboard/front/assets/assets.php:257      conta1()
+2016-06-03 14:39:06 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT glpi_items_tickets.itemtype AS tipo, glpi_items_tickets.`items_id` AS id , COUNT(*) AS conta
+FROM glpi_items_tickets
+WHERE glpi_items_tickets.`itemtype` <> \'\'
+AND glpi_items_tickets.`items_id` > 0
+AND glpi_items_tickets.`itemtype` <> \'PluginProjetProjet\'
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)
+GROUP BY glpi_items_tickets.`itemtype` , glpi_items_tickets.`items_id`
+ORDER BY conta DESC
+LIMIT 100 
+  Error: Unknown column 'entities_id' in 'where clause'
+  Backtrace :
+  ...ns/dashboard/front/assets/global_tickets.php:15 
+  plugins/dashboard/front/assets/assets.php:484      include()
+2016-06-03 14:44:34 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT count(id) AS id
+FROM glpi_cartridges 
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)' at line 3
+  Backtrace :
+  plugins/dashboard/front/assets/assets.php:100      
+  plugins/dashboard/front/assets/assets.php:255      conta1()
+2016-06-03 14:44:34 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT count(id) AS id
+FROM glpi_consumables 
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)' at line 3
+  Backtrace :
+  plugins/dashboard/front/assets/assets.php:100      
+  plugins/dashboard/front/assets/assets.php:257      conta1()
+2016-06-03 14:44:35 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT glpi_items_tickets.itemtype AS tipo, glpi_items_tickets.`items_id` AS id , COUNT(*) AS conta
+FROM glpi_items_tickets
+WHERE glpi_items_tickets.`itemtype` <> \'\'
+AND glpi_items_tickets.`items_id` > 0
+AND glpi_items_tickets.`itemtype` <> \'PluginProjetProjet\'
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)
+GROUP BY glpi_items_tickets.`itemtype` , glpi_items_tickets.`items_id`
+ORDER BY conta DESC
+LIMIT 100 
+  Error: Unknown column 'entities_id' in 'where clause'
+  Backtrace :
+  ...ns/dashboard/front/assets/global_tickets.php:15 
+  plugins/dashboard/front/assets/assets.php:484      include()
+2016-06-13 17:13:26 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id=4 AND show_ticketmail_onglet=1
+  Error: Table 'glpi.glpi_plugin_ticketmail_profiles' doesn't exist
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/plugin.class.php:366                           Plugin::load()
+  front/plugin.php:96                                Plugin->listPlugins()
+2016-06-13 17:13:26 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id=4 AND show_ticketmail_onglet=1
+  Error: Table 'glpi.glpi_plugin_ticketmail_profiles' doesn't exist
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/plugin.class.php:366                           Plugin::load()
+  front/plugin.php:96                                Plugin->listPlugins()
+2016-06-13 17:13:33 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id=4 AND show_ticketmail_onglet=1
+  Error: Table 'glpi.glpi_plugin_ticketmail_profiles' doesn't exist
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/plugin.class.php:639                           Plugin::load()
+  :                                                  Plugin->install()
+  front/plugin.form.php:49                           call_user_func()
+2016-06-13 17:14:12 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  index.php:56                                       include()
+2016-06-13 17:14:12 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  front/cron.php:43                                  include()
+2016-06-13 17:14:21 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  front/login.php:39                                 include()
+2016-06-13 17:14:25 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  front/logout.php:39                                include()
+2016-06-13 17:14:25 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  index.php:56                                       include()
+2016-06-13 17:14:25 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  front/cron.php:43                                  include()
+2016-06-13 17:14:28 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  front/login.php:39                                 include()
+2016-06-13 17:17:00 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  index.php:56                                       include()
+2016-06-13 17:17:01 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  front/cron.php:43                                  include()
+2016-06-13 17:17:15 [@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL:  SELECT * FROM glpi_plugin_ticketmail_profiles WHERE profiles_id= AND show_ticketmail_onglet=1
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND show_ticketmail_onglet=1' at line 1
+  Backtrace :
+  plugins/ticketmail/setup.php:45                    
+  plugins/ticketmail/setup.php:18                    plugin_ticketmail_right()
+  inc/plugin.class.php:128                           plugin_init_ticketmail()
+  inc/includes.php:120                               Plugin::load()
+  front/login.php:39                                 include()
+2016-07-05 12:27:17 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT count(id) AS id
+FROM glpi_cartridges 
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)' at line 3
+  Backtrace :
+  plugins/dashboard/front/assets/assets.php:100      
+  plugins/dashboard/front/assets/assets.php:255      conta1()
+2016-07-05 12:27:17 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT count(id) AS id
+FROM glpi_consumables 
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)' at line 3
+  Backtrace :
+  plugins/dashboard/front/assets/assets.php:100      
+  plugins/dashboard/front/assets/assets.php:257      conta1()
+2016-07-05 12:27:17 [11@lanpiahd.pia.com.br]
+  *** MySQL query error:
+  SQL: 
+SELECT glpi_items_tickets.itemtype AS tipo, glpi_items_tickets.`items_id` AS id , COUNT(*) AS conta
+FROM glpi_items_tickets
+WHERE glpi_items_tickets.`itemtype` <> \'\'
+AND glpi_items_tickets.`items_id` > 0
+AND glpi_items_tickets.`itemtype` <> \'PluginProjetProjet\'
+AND entities_id IN (0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)
+GROUP BY glpi_items_tickets.`itemtype` , glpi_items_tickets.`items_id`
+ORDER BY conta DESC
+LIMIT 100 
+  Error: Unknown column 'entities_id' in 'where clause'
+  Backtrace :
+  ...ns/dashboard/front/assets/global_tickets.php:15 
+  plugins/dashboard/front/assets/assets.php:484      include()

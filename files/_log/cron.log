@@ -1,0 +1,1214 @@
+2016-02-25 12:13:49 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-02-25 12:15:21 [2@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-02-25 12:15:39 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-02-25 12:15:43 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-25 12:15:45 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 12:18:38 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-02-25 12:18:40 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-02-25 12:18:43 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-02-25 12:18:47 [@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-02-25 12:37:31 [2@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-02-25 12:43:31 [2@lanpiahd.pia.com.br]
+Interno #1: Executar optimize
+2016-02-25 12:49:31 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-25 12:54:58 [2@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-02-25 13:00:21 [2@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-02-25 13:06:04 [2@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-02-25 13:12:24 [2@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-02-25 13:27:21 [2@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-02-25 13:32:36 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-25 14:32:28 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 14:42:40 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-25 14:45:18 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-25 14:45:34 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-02-25 14:45:46 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-02-25 14:45:56 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-25 14:46:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-02-25 14:46:19 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-02-25 14:46:30 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 14:49:39 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ocsng
+2016-02-25 16:31:55 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-25 16:32:43 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 16:41:31 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-25 16:44:02 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-25 16:48:27 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-02-25 16:49:27 [6@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-02-25 16:56:34 [6@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-02-25 16:56:43 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-02-25 16:56:52 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 17:06:16 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-25 17:10:53 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-25 17:11:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-25 17:11:32 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 17:12:21 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-25 17:12:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 17:13:06 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 17:18:16 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 17:30:25 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-25 17:35:38 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-25 17:49:31 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-25 18:00:29 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-25 20:00:15 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-25 20:03:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-26 12:26:58 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-02-26 18:17:34 [2@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-02-29 11:15:10 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-29 11:15:21 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-02-29 11:16:26 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-02-29 11:24:01 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-29 11:41:32 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-29 11:46:56 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-29 12:25:43 [2@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-02-29 12:32:26 [2@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-02-29 14:22:28 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-02-29 14:26:05 [@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-02-29 14:26:13 [@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-02-29 14:30:36 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-02-29 14:39:21 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-02-29 14:45:22 [2@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-02-29 14:52:44 [2@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-02-29 14:58:06 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-02-29 14:59:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-02-29 15:00:24 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-29 15:00:37 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-29 15:03:31 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-29 16:26:12 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-29 16:31:43 [2@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-02-29 16:39:57 [2@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-02-29 16:46:03 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-29 16:51:24 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-29 17:03:51 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-02-29 17:15:46 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-02-29 18:36:35 [2@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-02-29 18:49:02 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-02-29 18:54:22 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-02-29 19:11:01 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-02-29 19:21:56 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-03-01 17:17:10 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-03-01 17:19:00 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-03-01 17:19:21 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-03-01 17:21:03 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-03-01 17:21:43 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-03-01 17:21:53 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-03-01 17:23:50 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-03-01 17:27:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-03-01 17:58:36 [2@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-03-01 18:16:43 [2@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-03-01 18:22:11 [2@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-03-01 18:28:12 [2@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-03-01 18:35:41 [2@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-03-01 18:36:56 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-03-01 18:39:06 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-03-01 18:42:50 [@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-03-01 18:43:07 [@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-03-01 18:43:28 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-03-01 18:44:44 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-03-01 18:46:19 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-03-01 23:03:26 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-03-02 20:57:58 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-17 13:59:47 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-17 16:47:31 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-17 17:00:53 [7@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-17 17:02:07 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-17 17:02:34 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-17 17:02:45 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-17 17:02:57 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-17 17:03:51 [@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-05-17 17:07:37 [@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-05-17 17:09:03 [2@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-05-17 17:10:54 [7@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-05-17 17:13:24 [@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-05-17 17:13:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-05-17 17:21:08 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-05-17 18:43:26 [2@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-05-17 20:14:33 [@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-05-17 20:25:24 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-17 20:26:50 [@lanpiahd.pia.com.br]
+Interno #1: Executar optimize
+2016-05-17 20:27:05 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-17 20:32:46 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-17 20:38:59 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-18 14:00:33 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-24 17:16:49 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-24 17:17:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-24 17:22:12 [2@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-24 17:26:06 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-24 17:27:59 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-24 18:11:30 [2@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-24 18:11:56 [2@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-24 18:31:20 [2@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-05-24 19:41:33 [@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-05-24 20:01:24 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-24 20:02:59 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-05-24 20:03:12 [@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-05-24 20:03:26 [6@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-05-24 20:03:35 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-05-24 20:14:16 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-05-24 20:14:32 [@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-05-24 20:16:49 [@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-05-24 20:17:02 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-24 20:19:05 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-24 20:29:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-24 20:30:08 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-24 20:33:54 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-24 20:34:26 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-24 20:39:25 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-25 10:38:16 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-25 10:42:27 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-25 10:47:37 [@lanpiahd.pia.com.br]
+Interno #1: Executar optimize
+2016-05-25 10:49:11 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-25 10:49:28 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-25 10:54:43 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-25 10:59:56 [2@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-25 11:13:29 [2@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-25 11:14:17 [2@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-25 11:19:38 [@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-05-25 11:19:52 [@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-05-25 11:30:33 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-25 11:30:47 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-25 11:30:55 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-25 11:31:15 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-25 11:34:09 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-25 11:42:33 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-25 11:43:18 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-25 11:46:08 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-25 11:50:58 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-25 13:56:05 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-25 14:31:15 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-25 14:31:21 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-25 14:31:41 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-25 14:32:45 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-25 14:43:44 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-25 17:10:56 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-25 17:38:08 [11@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-25 18:20:25 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-25 18:49:02 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-25 18:51:45 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-25 18:54:03 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-25 19:07:22 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-25 19:21:42 [2@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-25 19:31:44 [2@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-25 19:41:46 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-25 19:51:48 [2@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-27 10:49:24 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-27 11:15:55 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-27 13:16:56 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-27 13:17:29 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-27 13:17:39 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-05-30 11:05:06 [@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-05-30 11:15:00 [11@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-05-30 11:28:36 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-05-30 11:55:51 [11@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-30 12:34:35 [11@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-05-30 13:00:24 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-05-30 13:05:26 [11@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-05-30 13:12:36 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-30 13:18:34 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-30 13:23:44 [2@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-30 13:33:16 [2@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-05-30 13:59:21 [@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-05-30 14:10:51 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-30 14:27:55 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-30 14:28:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-30 14:30:00 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-30 18:18:26 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-05-30 18:19:30 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-30 18:27:24 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-30 19:49:03 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-31 00:25:54 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-31 00:28:36 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-31 11:14:59 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-31 11:45:33 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-31 12:25:17 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-31 12:33:54 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-31 12:35:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-31 12:35:19 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-31 12:35:34 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-31 12:35:55 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-31 12:41:27 [7@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-05-31 12:41:47 [2@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-05-31 12:42:02 [12@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-05-31 12:45:21 [@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-05-31 12:46:44 [7@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-31 12:48:38 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-05-31 12:48:55 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-31 12:53:02 [7@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-05-31 12:53:07 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-31 12:57:40 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-31 12:58:44 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-31 12:59:49 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-31 13:03:09 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-31 13:03:48 [7@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-05-31 13:53:09 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-31 13:59:49 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-31 14:06:20 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-31 14:17:21 [11@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-05-31 14:22:15 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-31 14:56:15 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-31 18:13:40 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-31 18:20:44 [11@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-31 18:52:28 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-05-31 18:57:39 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-31 19:10:11 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-31 19:12:32 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-31 19:15:07 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-05-31 19:21:33 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-05-31 19:30:35 [11@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-05-31 19:36:33 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-05-31 19:36:43 [12@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-05-31 19:45:03 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-05-31 19:51:49 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-05-31 19:52:31 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-05-31 20:08:45 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-01 12:56:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-01 13:10:38 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-01 13:20:41 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-01 13:30:44 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-01 13:40:47 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-01 13:50:50 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-01 14:00:52 [11@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-01 14:10:54 [11@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-01 14:17:19 [11@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-01 14:27:22 [11@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-01 14:37:24 [11@lanpiahd.pia.com.br]
+Interno #1: Executar optimize
+2016-06-01 14:47:28 [11@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-06-01 14:57:30 [11@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-06-01 15:07:33 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-06-01 15:17:35 [11@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-06-01 15:27:38 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-01 15:37:41 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-06-01 15:47:42 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-01 15:57:45 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-01 16:07:46 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-01 16:17:48 [11@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-06-01 16:27:51 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-01 16:37:52 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-01 16:49:14 [11@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-01 16:59:58 [11@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-01 17:10:00 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-01 17:20:03 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-01 17:30:06 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-01 17:40:08 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-01 17:50:10 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-01 18:00:14 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-01 18:10:16 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-01 18:20:18 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-01 18:30:20 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-01 18:32:39 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-01 18:32:44 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-01 18:36:36 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-01 18:40:24 [11@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-01 18:50:28 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-01 19:00:40 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-01 19:10:44 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-01 19:20:46 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-01 19:30:48 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-01 19:40:51 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-01 19:50:02 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-01 19:50:53 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-01 20:00:55 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-01 20:10:57 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-01 20:21:00 [11@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-06-01 20:25:35 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-01 20:35:14 [13@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-03 14:21:00 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-03 14:26:40 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-03 14:32:31 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-03 14:45:15 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-03 20:19:10 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-07 14:04:58 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-07 14:06:32 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-08 16:48:35 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-08 17:22:04 [11@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-08 17:32:17 [11@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-08 17:42:20 [11@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-06-08 17:52:24 [11@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-06-08 18:02:28 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-06-08 18:09:39 [11@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-06-08 18:10:55 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-06-08 18:20:27 [11@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-06-08 18:43:12 [11@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-06-09 10:57:04 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 11:07:21 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 11:17:24 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-09 11:25:38 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-09 11:25:44 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 11:33:57 [7@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-09 11:39:57 [12@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-09 11:41:13 [7@lanpiahd.pia.com.br]
+Interno #1: Executar optimize
+2016-06-09 11:47:36 [12@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-09 11:48:10 [7@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-09 11:49:15 [7@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-09 11:54:35 [7@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 11:57:37 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 12:07:39 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 13:03:00 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-09 13:21:02 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 13:34:04 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 13:41:59 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 13:47:31 [7@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-09 13:51:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-09 13:51:52 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-09 13:55:46 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-09 16:46:05 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-09 16:55:16 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 16:55:34 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 16:55:49 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 18:01:08 [12@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-09 18:07:21 [12@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-09 18:12:31 [12@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-09 18:14:46 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-09 18:16:18 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-09 18:17:02 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 18:19:58 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 18:23:32 [13@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 18:25:24 [12@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-06-09 18:32:23 [12@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-06-09 18:34:22 [13@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-06-09 18:39:59 [@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-06-09 18:40:02 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-06-09 18:40:16 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 18:41:01 [@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-06-09 18:46:42 [9@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 18:46:58 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-09 18:53:50 [13@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 18:55:15 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 18:55:24 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-06-09 18:56:06 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 18:56:56 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-09 19:05:55 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 19:07:56 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 19:08:01 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 19:09:25 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-09 19:55:49 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-09 19:56:28 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-09 20:00:24 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-09 20:00:40 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-09 20:00:53 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-09 20:07:47 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-09 20:17:51 [11@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-10 10:41:03 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-10 10:59:34 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-10 10:59:38 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-10 10:59:51 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-10 11:11:30 [7@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-10 19:05:26 [7@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-13 11:11:46 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-13 11:27:29 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-13 11:33:19 [13@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-13 11:34:11 [12@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-13 11:39:58 [13@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 11:40:19 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 11:45:18 [13@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 11:46:14 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 11:54:09 [13@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-13 11:57:27 [12@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-06-13 11:59:25 [13@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-06-13 12:02:30 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-06-13 12:10:40 [13@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-06-13 12:11:32 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-06-13 12:19:03 [12@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-06-13 12:23:43 [13@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-06-13 12:33:08 [12@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-13 12:40:33 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 12:40:41 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 12:43:09 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 12:45:54 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 12:53:11 [12@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-13 13:03:13 [12@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-13 13:13:16 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 13:23:17 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 13:33:19 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 13:43:22 [12@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-13 14:25:39 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 14:32:26 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 14:37:31 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 14:44:00 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-13 14:45:26 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 14:52:52 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-13 14:55:27 [12@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-13 16:27:49 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 16:58:31 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 17:04:46 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 17:14:12 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-13 17:14:25 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 17:14:59 [2@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-13 17:15:32 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-13 17:17:01 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-13 17:17:28 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 17:17:40 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 17:17:41 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 17:22:34 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 17:30:01 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 17:31:44 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 17:44:09 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 17:49:42 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 17:55:42 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 18:00:21 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 18:03:50 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 18:08:08 [10@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 18:09:15 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 18:13:12 [10@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 18:13:43 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 18:16:59 [2@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-13 18:22:03 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 18:41:08 [2@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-13 18:41:39 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 19:12:53 [2@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-13 19:31:17 [2@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-13 19:36:31 [2@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-13 19:41:56 [2@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-13 19:46:59 [2@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-13 20:05:38 [2@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-13 20:11:10 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-14 11:02:09 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-14 12:18:10 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-14 12:23:10 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-14 12:24:58 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-14 13:09:07 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-14 13:23:42 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-17 14:28:51 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-17 14:43:05 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-17 16:42:10 [@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-20 13:24:03 [@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-20 13:24:25 [@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-06-20 16:21:09 [@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-06-20 16:32:31 [12@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-20 16:34:40 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-06-21 10:54:29 [@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-06-21 12:53:00 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-06-21 13:53:27 [@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-06-21 13:59:51 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-06-21 14:02:02 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-21 14:08:12 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-21 14:27:31 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-21 14:28:14 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-21 14:29:30 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-21 14:36:11 [12@lanpiahd.pia.com.br]
+Interno #1: Executar optimize
+2016-06-21 14:43:30 [11@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-21 14:44:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-21 14:51:36 [12@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-21 14:56:37 [12@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-21 16:59:45 [12@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-21 17:06:05 [12@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-06-21 17:16:50 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-21 17:26:51 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-21 18:07:10 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-21 18:33:37 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-21 20:02:22 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-22 10:37:47 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-22 10:43:52 [12@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-22 10:44:58 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-22 10:50:36 [12@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-06-22 10:55:43 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-06-22 12:50:40 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-22 13:00:56 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-22 13:10:57 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-22 13:20:59 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-22 13:31:00 [12@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-22 13:41:01 [12@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-22 13:51:02 [12@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-22 14:01:03 [12@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-06-22 14:11:06 [12@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-22 14:21:07 [12@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-22 14:31:08 [12@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-22 14:41:09 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-06-22 14:51:10 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-22 15:01:11 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-22 15:11:12 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-22 15:21:13 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-22 15:31:14 [12@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-06-22 15:41:15 [12@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-06-22 15:51:16 [12@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-22 16:01:17 [12@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-22 16:11:18 [12@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-22 16:21:19 [12@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-22 16:31:20 [12@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-22 16:41:21 [12@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-22 16:51:22 [12@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-23 18:41:25 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-06-23 18:41:34 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-23 19:14:17 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-06-23 19:24:21 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-06-23 19:34:24 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-06-27 10:44:09 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-06-27 10:51:38 [13@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-06-28 10:49:38 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-06-28 10:49:55 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-06-28 11:26:53 [@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-06-28 11:51:57 [11@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-06-28 11:58:34 [11@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-06-28 12:12:37 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-06-28 12:17:51 [11@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-06-28 12:23:27 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-06-28 12:54:53 [11@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-06-28 17:53:47 [11@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-06-29 11:42:53 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-06-29 11:43:26 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-07-01 19:05:27 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-07-01 19:05:31 [@lanpiahd.pia.com.br]
+Não foi possível adquirir bloqueio do DB
+2016-07-01 19:05:36 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-07-01 19:07:18 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-07-01 19:11:19 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-07-01 19:14:14 [9@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-07-01 19:18:54 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-07-01 19:19:20 [9@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-07-01 19:25:32 [9@lanpiahd.pia.com.br]
+Interno #1: Executar optimize
+2016-07-01 19:38:40 [@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-07-04 14:11:26 [@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-07-04 14:11:35 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-07-04 14:11:50 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-07-04 14:12:02 [@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-07-04 14:18:22 [9@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-07-04 14:20:05 [@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-07-04 14:20:33 [@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-07-05 12:18:10 [@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-07-05 12:30:21 [11@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-07-05 12:37:56 [@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-07-05 12:47:44 [@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-07-05 12:51:50 [11@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-07-05 13:02:13 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-07-05 13:06:30 [@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-07-05 13:06:48 [@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-07-05 13:07:54 [11@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-07-05 13:25:53 [11@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-07-05 13:39:05 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-07-05 16:37:14 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-07-05 17:53:46 [11@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-07-05 19:43:47 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-07-05 19:51:27 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-07-05 20:19:23 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-07-06 08:13:15 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-07-06 08:20:58 [11@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-07-06 08:33:48 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-07-06 08:43:50 [11@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-07-06 08:53:52 [11@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-07-06 09:03:53 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean
+2016-07-06 09:13:55 [11@lanpiahd.pia.com.br]
+Interno #1: Executar infocom
+2016-07-06 09:23:57 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgateerror
+2016-07-06 09:33:58 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-07-06 09:43:58 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-07-06 09:52:19 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-07-06 10:00:02 [11@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-07-06 11:14:29 [11@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-07-06 11:20:55 [11@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-07-07 09:25:17 [@lanpiahd.pia.com.br]
+Interno #1: Executar ticketrecurrent
+2016-07-07 15:16:36 [@lanpiahd.pia.com.br]
+Interno #1: Executar session
+2016-07-07 15:20:44 [@lanpiahd.pia.com.br]
+Interno #1: Executar temp
+2016-07-08 10:24:32 [@lanpiahd.pia.com.br]
+Interno #1: Executar createinquest
+2016-07-08 10:30:41 [11@lanpiahd.pia.com.br]
+Interno #1: Executar graph
+2016-07-08 10:41:07 [11@lanpiahd.pia.com.br]
+Interno #1: Executar mailgate
+2016-07-08 10:53:07 [11@lanpiahd.pia.com.br]
+Interno #1: Executar reservation
+2016-07-08 10:59:26 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmail
+2016-07-08 11:06:57 [11@lanpiahd.pia.com.br]
+Interno #1: Executar slaticket
+2016-07-08 11:09:55 [@lanpiahd.pia.com.br]
+Interno #1: Executar planningrecall
+2016-07-08 11:27:25 [11@lanpiahd.pia.com.br]
+Interno #1: Executar contract
+2016-07-11 07:43:14 [@lanpiahd.pia.com.br]
+Interno #1: Executar closeticket
+2016-07-11 07:48:38 [11@lanpiahd.pia.com.br]
+Interno #1: Executar alertnotclosed
+2016-07-11 08:17:28 [11@lanpiahd.pia.com.br]
+Interno #1: Executar watcher
+2016-07-11 08:22:37 [11@lanpiahd.pia.com.br]
+Interno #1: Executar queuedmailclean

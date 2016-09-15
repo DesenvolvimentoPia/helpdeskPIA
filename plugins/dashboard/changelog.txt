@@ -1,0 +1,23 @@
+Versão 0.7.1:
+
+
+- Novo relatório: Localizações;
+
+- Corrigido erro de arquivos PDF corrompidos;
+
+- Correções de bugs diversos;
+
+- Você agora pode me comprar uma cerveja pelo paypal; :)
+
+
+Version 0.7.1:
+
+
+- New report: Locations;
+
+- Fix corrupted PDF files error;
+
+- Fix minor bugs;
+
+- Now you can buy me a beer in Paypal; :)
+
